@@ -14,8 +14,8 @@ Currently I have been working on a personal level with studies focused on lexica
 - Math, physics and problem-solving in general.
 - Biology, living beings in general have extremely interesting behaviors and strategies. Understanding these behaviors gives us a new perspective on how to solve our own challenges.
 
-### Currently learning
-- I'm currently working on a thesis on automated code generation.
+### Currently
+- Working on a thesis on automated code generation.
 - A nutritional tracking app. 
 
 ### Readings
