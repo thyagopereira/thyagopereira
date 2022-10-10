@@ -10,7 +10,7 @@ Currently I have been working on a personal level with studies focused on lexica
 - Data structures, analysis and proof of algorithms.
 - Functional and dynamic programming. 
 - Concurrent programming and distributed systems
-- Migration and scaling of systems.
+- Migration and scalability of systems.
 - Math, physics and problem-solving in general.
 - Biology, living beings in general have extremely interesting behaviors and strategies. Understanding these behaviors gives us a new perspective on how to solve our own challenges.
 
