@@ -21,5 +21,10 @@ Currently I have been working on a personal level with studies focused on lexica
 ### Readings
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com.br/Structure-Interpretation-Computer-Programs-Abelson/dp/0262510871/ref=sr_1_1?keywords=structure+and+interpretation+of+computer+programs&qid=1665408527&qu=eyJxc2MiOiIxLjc0IiwicXNhIjoiMS4zMiIsInFzcCI6IjAuNzcifQ%3D%3D&sprefix=stru%2Caps%2C572&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) a classic.  
 
+### Programming Languages
+- [Golang](https://go.dev/)
+- [Java](https://www.java.com/pt-BR/)
+- [Python](https://www.python.org/)
+
 ## Languages
 Portuguese, English.
