@@ -4,7 +4,7 @@ As a self-taught person who is interested in science, I'm always learning someth
 
 I am a black person born in Brazil. Currently I see myself as a collaborator in this immense world of computing. I study at the Federal University of Campina Grande, in the [Computer Science course](https://www.computacao.ufcg.edu.br/).
 
-Currently I have been working on a personal level with studies focused on lexical analysis and compilers. However professionally I have been working on the payments infrastructure team at [@enjoei](https://www.enjoei.com.br) as a Senior Software Engineer.
+Currently I have been working on a personal level with studies focused on lexical analysis and compilers.
 
 ### Areas of interest
 - Data structures, analysis and proof of algorithms.
