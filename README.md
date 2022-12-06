@@ -9,7 +9,7 @@ I am a black person born in Brazil. Currently I see myself as a collaborator in 
 - Functional and dynamic programming. 
 - Concurrent programming and distributed systems
 - Migration and scalability of systems.
-- Math, physics and problem-solving in general.
+- Math and problem-solving in general.
 
 ### Currently
 - Working on a thesis on automated code generation.
