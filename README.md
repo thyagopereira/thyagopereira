@@ -23,7 +23,6 @@ I am a black person born in Brazil. Currently I see myself as a collaborator in 
 I am a person who has no preferences in this matter. I believe that the scope of the problem should be the main factor in deciding which language to apply. However, I have outstanding experiences in the following languages.
 
 - [Golang](https://go.dev/)
-- [Java](https://www.java.com/pt-BR/)
 - [Python](https://www.python.org/)
 
 ## Languages
