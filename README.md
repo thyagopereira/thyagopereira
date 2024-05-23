@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagopereira&label=Profile%20views&color=0e75b6&style=flat" alt="thyagopereira" /> </p>
 
-- 🌱 I’m currently learning **Rust**
-
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1h_qDmpkbAx33vsKr4vTJEqLf6pnEwzL0/edit?usp=sharing&ouid=106693224835270597258&rtpof=true&sd=true).
 
 <h3 align="left">Connect with me:</h3>
